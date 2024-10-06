@@ -9,6 +9,11 @@ public class EncapsulationMainClass {
 		obj.getName();
 		obj.getAge();
 		
-	 }
+		obj.seName("Nishtha");
+		obj.setAge(30);;
+		obj.getName();
+		obj.getAge();
+
+	}
 
 }
